@@ -4,7 +4,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ِ AHMEED SINGAP! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ِ AHMED SINGAP! 
 *Frontend Developer & Digital Craftsman*
 
 <!--Start Intro-->               
@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
  
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- 💻 Visit my [Portfolio](https://ahmed-singap.netlify.app/) for more details about me.
  <p align=" ">
   <a href="https://twitter.com/ahmed_singap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmed_singap" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-singap-98aa1b28b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-singap-98aa1b28b/" height="30" width="40" /></a>
